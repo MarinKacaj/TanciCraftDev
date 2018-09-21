@@ -1,7 +1,6 @@
 ---
-path: /blog/my-first-blog
-date: 2018-01-11T00:00:00-05:00
-title: My First Blog
+path: my-second-blog-post
+date: '2018-09-21'
+title: My Second Blog Post
 ---
-
-Hello there! This is my first blog post
+Hello there! This is my second blog post
